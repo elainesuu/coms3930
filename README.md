@@ -1,7 +1,7 @@
 # Module 1 README
 
 <p align="center">
-  <img width="300" height="300" src="/display.jpg">
+  <img width="300" height="400" src="/display.jpg">
 </p>
 
 **my ears dance**
