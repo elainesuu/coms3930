@@ -22,7 +22,7 @@ dance to
 
 To see more of the artistic decisions behind this project, check out my blog!
 
-<br \>
+<br />
 
 **This project will require a:** 
 - ESP32 TTGO T-Display
@@ -33,7 +33,7 @@ To run the software, you will need to download the [Arduino IDE](https://www.ard
 
 To connect the TTGO display to your computer, you will need a USB-C cable that can transfer data, not only for charging purposes
 
-<br \>
+<br />
 
 **For installation purposes, these are the general steps:**
 1. Once you have Arduino IDE open, and an example patch up on your screen, go to \<File\>, \<Preferences\>, and add this [link](https://dl.espressif.com/dl/package_esp32_index.json) into the “Additional Boards Manager URLs” section as a new line
@@ -44,13 +44,13 @@ To connect the TTGO display to your computer, you will need a USB-C cable that c
     - Uncomment the line “#include <User_Setups/Setup25_TTGO_T_Display.h>”
 5. Once saved, depending on your computer’s software, you should be able to upload code to your device
   
-<br \>
+<br />
 
 **To test some example code:**
 - Go to \<Edit\>, \<Examples\>, \<TFT_eSPI\>, \<160x128\>, and choose any example to upload onto your ESP32 display
 - Remember to choose the board “TTGO T1” and port “/dev/cu.wchusbserial….”
 
-<br \>
+<br />
 
 These are some resources that will help, as some may work with some devices and some not:
 - Download this driver: http://www.wch.cn/downloads/CH34XSER_MAC_ZIP.html
