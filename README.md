@@ -43,6 +43,7 @@ To connect the TTGO display to your computer, you will need a USB-C cable that c
     - Comment out the line “#include <User_Setup.h>”
     - Uncomment the line “#include <User_Setups/Setup25_TTGO_T_Display.h>”
 5. Once saved, depending on your computer’s software, you should be able to upload code to your device
+    - You can download the [file](elainesuu/coms3930-module-1/generative.ino) in this repository for the code to upload to your device
   
 <br />
 
