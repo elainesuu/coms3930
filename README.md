@@ -24,7 +24,7 @@ dance to
 [ ]
 ```
 
-To see more of the artistic decisions behind this project, check out my blog!
+To see more of the artistic decisions behind this project, check out my [blog](https://elaine-su.squarespace.com/)!
 
 <br />
 
