@@ -24,7 +24,8 @@ dance to
 [ ]
 ```
 
-To see more of the artistic decisions behind this project, check out my [blog](https://elaine-su.squarespace.com/)!
+To see more of the artistic decisions behind this project, check out my [blog](https://elaine-su.squarespace.com/)!  
+- the password is coms3930
 
 <br />
 
